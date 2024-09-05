@@ -1,0 +1,75 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Sphinx-Book-Theme\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "next page"
+msgstr "Следующая страница"
+
+msgid "Toggle navigation"
+msgstr "Переключить навигацию"
+
+msgid "Print to PDF"
+msgstr "Распечатать в PDF"
+
+msgid "Download this page"
+msgstr "Загрузите эту страницу"
+
+msgid "By"
+msgstr "По"
+
+msgid "Theme by the"
+msgstr "Тема от"
+
+msgid "By the"
+msgstr "Посредством"
+
+msgid "Download source file"
+msgstr "Скачать исходный файл"
+
+msgid "Open an issue"
+msgstr "Открыть вопрос"
+
+msgid "Copyright"
+msgstr "авторское право"
+
+msgid "Download notebook file"
+msgstr "Скачать файл записной книжки"
+
+msgid "previous page"
+msgstr "Предыдущая страница"
+
+msgid "Sphinx Book Theme"
+msgstr "Тема книги Сфинкс"
+
+msgid "open issue"
+msgstr "открытый вопрос"
+
+msgid "suggest edit"
+msgstr "предложить редактировать"
+
+msgid "Contents"
+msgstr "Содержание"
+
+msgid "Fullscreen mode"
+msgstr "Полноэкранный режим"
+
+msgid "repository"
+msgstr "хранилище"
+
+msgid "Source repository"
+msgstr "Исходный репозиторий"
+
+msgid "Edit this page"
+msgstr "Редактировать эту страницу"
+
+msgid "Launch"
+msgstr "Запуск"
+
+msgid "Last updated on"
+msgstr "Последнее обновление"
